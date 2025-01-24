@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Azamat
 - 👀 I’m interested in playing the piano
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on  
-- 📫 How to reach me xxcv_l77
+- 📫 How to reach me 
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
