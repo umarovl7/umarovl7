@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Azamat
+- 👋 Hi, I’m Azamat, 16 years old.
 - 👀 I’m interested in playing the piano
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on  
+- 💞️ I’m looking to collaborate on  ...
 - 📫 How to reach me 
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
